@@ -1,9 +1,11 @@
 # **HNG13 DevOps Stage 0: Welcome Page**
 
 ## ✨ Overview
+
 This project presents a sleek, responsive static HTML welcome page, demonstrating successful deployment on a cloud service provider like AWS, GCP, etc. It serves as a foundational step for the HNG13 DevOps journey, showcasing basic web development and cloud hosting capabilities.
 
 ## 🚀 Features
+
 - **Modern UI/UX**: Clean and engaging design with a subtle gradient background and frosted glass effect.
 - **Responsive Design**: Adapts seamlessly to various screen sizes thanks to viewport meta tag.
 - **Cloud Deployment Showcase**: Clearly indicates successful deployment on Amazon Web Services.
@@ -13,6 +15,7 @@ This project presents a sleek, responsive static HTML welcome page, demonstratin
 ## ⚙️ Getting Started
 
 ### Installation
+
 To get a copy of this project up and running on your local machine, follow these simple steps.
 
 1.  **Clone the Repository**:
@@ -25,10 +28,11 @@ To get a copy of this project up and running on your local machine, follow these
     ```
 3.  **Open in Browser**:
     This is a static HTML file, so no build steps are required. Simply open `index.html` in your preferred web browser:
-    *   Double-click `index.html` in your file explorer.
-    *   Alternatively, use your browser's "Open File" option.
+    - Double-click `index.html` in your file explorer.
+    - Alternatively, use your browser's "Open File" option.
 
 ## 🌐 Usage
+
 Once opened, the `index.html` file will display a "Welcome to DevOps Stage 0" message, along with details about the deployment and author. This page is designed to be a simple, informative landing page.
 
 To view the page in action, simply open the `index.html` file in any modern web browser.
@@ -36,31 +40,34 @@ To view the page in action, simply open the `index.html` file in any modern web 
 ```html
 <!-- Example of the core content displayed -->
 <div class="container">
-    <h1>Welcome to DevOps Stage 0 - Olaleye Olaoluwa/@olaleyeolauwa</h1>
-    <p>Successfully deployed on GCP</p>
-    <p class="timestamp">Deployed: 17/10/2025</p>
+  <h1>Welcome to DevOps Stage 0 - Olaleye Olaoluwa/@olaleyeolauwa</h1>
+  <p>Successfully deployed on GCP</p>
+  <p class="timestamp">Deployed: 17/10/2025</p>
 </div>
 ```
 
 The page will render similar to this:
-*(No screenshot files were provided in the project directory, so a placeholder for a future screenshot would go here if available.)*
+_(No screenshot files were provided in the project directory, so a placeholder for a future screenshot would go here if available.)_
 
 ## 🛠️ Technologies Used
-| Technology | Description                               | Link                                    |
-| :--------- | :---------------------------------------- | :-------------------------------------- |
-| HTML5      | Standard markup language for web pages.   | [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+
+| Technology | Description                                                          | Link                                                       |
+| :--------- | :------------------------------------------------------------------- | :--------------------------------------------------------- |
+| HTML5      | Standard markup language for web pages.                              | [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) |
 | CSS3       | Styling for the web page, including gradients and responsive design. | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)   |
-| AWS        | Cloud platform for hosting the static web page. | [AWS](https://aws.amazon.com/)          |
+| AWS        | Cloud platform for hosting the static web page.                      | [AWS](https://aws.amazon.com/)                             |
 
 ## 📄 License
+
 This project is open-source and available under the MIT License.
 
 ## 👤 Author
+
 **Olaleye Obidiya**
-- **Username**: @Onyx_Oceanview
+
+- **Slack Username**: @Onyx_Oceanview
 - **Email**: `olaleyeobidiya@gmail.com`
-- **LinkedIn**: `[Your LinkedIn Profile]`
-- **Twitter**: `[Your Twitter Handle]`
+- **Server IP/Domain**: http://34.59.107.0/
 
 ---
 
